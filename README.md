@@ -1,7 +1,7 @@
 lcopy_role
 =========
 
-Copy large files to remote locations in parallel
+Copy large files to remote locations in parallel via ansible
 
 Requirements
 ------------
