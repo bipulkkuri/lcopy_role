@@ -1,4 +1,4 @@
-Role Name
+lcopy_role
 =========
 
 Copy large files to remote locations in parallel
